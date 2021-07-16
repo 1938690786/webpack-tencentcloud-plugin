@@ -1,0 +1,14 @@
+{
+  "name": "webpack-tencentcloud-plugin",
+  "version": "1.0.4",
+  "description": "\u001b[A\u001b[Bwebpack-tencentcloud-plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cos-nodejs-sdk-v5": "^2.9.21"
+  },
+  "author": "",
+  "license": "ISC"
+}
