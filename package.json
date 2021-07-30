@@ -1,6 +1,6 @@
 {
   "name": "webpack-tencentcloud-plugin",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "\u001b[A\u001b[Bwebpack-tencentcloud-plugin",
   "main": "index.js",
   "scripts": {
